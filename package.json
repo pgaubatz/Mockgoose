@@ -32,7 +32,7 @@
   "dependencies": {
     "async": "^1.5.0",
     "debug": "2.2.0",
-    "mongodb-prebuilt": "^4.2.11"
+    "mongodb-prebuilt": "pgaubatz/mongodb-prebuilt"
   },
   "devDependencies": {
     "chai": "~2.2.0",
